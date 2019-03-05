@@ -94,7 +94,7 @@ nav > div span:nth-last-child(2) {
 nav > div input:checked ~ span {
     opacity: 1;
     transform: rotate(45deg) translate(-2px, -1px);
-    background: #232323;
+    background: #f87802;
 }
 
 
